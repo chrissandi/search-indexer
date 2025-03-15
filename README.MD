@@ -33,7 +33,7 @@ This will compile the code, run tests, and create a JAR file in the `target` dir
 ## Running the Application
 
 ```bash
-java -jar target/csg-search-indexer-1.0.jar <path-to-file>
+java -jar csg-search-indexer-1.0-SNAPSHOT.jar <path-to-file>
 ```
 
 ## Design Patterns
